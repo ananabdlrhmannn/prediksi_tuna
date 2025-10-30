@@ -1,0 +1,10 @@
+# Core libraries
+streamlit
+pandas
+numpy
+matplotlib
+
+# Optional for data processing or ML
+scikit-learn
+tensorflow
+keras
